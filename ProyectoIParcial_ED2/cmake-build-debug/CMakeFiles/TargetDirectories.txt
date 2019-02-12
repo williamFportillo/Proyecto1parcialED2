@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/ProyectoIParcial_ED2/cmake-build-debug/CMakeFiles/ProyectoIParcial_ED2.dir
+C:/Users/WilliamPC/CLionProjects/ProyectoIParcial_ED2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/CLionProjects/ProyectoIParcial_ED2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
