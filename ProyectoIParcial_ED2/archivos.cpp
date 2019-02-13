@@ -140,10 +140,7 @@ void archivos::eliminarDirectorio(file_entry array[], string name,bitmap* bmap) 
             file_entry entry;
             tmp = array[i];
 
-            if(tmp.file_type=='A'){
-                int a=tmp.size/4096;
-                apagarBits(array,tmp.file_name,bmap,a);
-            }
+      
             if (tmp.primer_hijo!= -1) {
                 if (tmp.hermano_derecho != -1) {
                     actual = tmp.hermano_derecho;
