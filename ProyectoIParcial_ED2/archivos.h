@@ -20,8 +20,5 @@ public:
     void eliminarDirectorio(file_entry array[], string n, bitmap*);
     void actualizarDisco(string,superbloque *md ,file_entry array[]);
     void carpetaAnterior(file_entry array[]);
-    void Importar(file_entry array[] , bitmap *bitmap);
-    void Exportar(file_entry array[] , bitmap *bitmap);
-    void apagarBits(file_entry[],string name, bitmap*,int);
 };
 #endif //PROYECTOIPARCIAL_ED2_ARCHIVOS_H
