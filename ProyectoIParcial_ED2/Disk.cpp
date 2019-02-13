@@ -197,10 +197,7 @@ void Disk::usar_disco(string n) {
                 }
             }
         }
-        if(palabra=="import")
-            dir->Importar(array,map);
-        if(palabra=="export")
-            dir->Exportar(array,map);
+      
         if(palabra=="regresar")
             dir->carpetaAnterior(array);
         if(palabra=="exit")
